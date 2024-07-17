@@ -94,5 +94,3 @@ Contributions are welcome! , please follow these steps :
 - jsonwebtoken: Implementation of JSON Web Tokens for secure communication.
 
 
-This Markdown file provides a structured guide for users and collaborators to understand, install dependencies, run, and contribute to your "book-store-api" project on GitHub. Adjust the placeholders (`your-username`, `your_mongodb_connection_string`, `your_jwt_secret_key`) with your actual details before publishing it to your repository.
-
